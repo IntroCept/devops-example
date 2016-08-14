@@ -1,4 +1,8 @@
 ## Why this solution
+
+![My solution network diagram](network-diagram.png "My solution for the task")
+
+
 Because of 
 
 1. a
